@@ -1,0 +1,22 @@
+{
+  "name": "template",
+  "version": "0.0.1",
+  "description": "template file for typescript projects",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaoMaoPrince/TscProjectTemplate.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Michael Crosby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaoMaoPrince/TscProjectTemplate/issues"
+  },
+  "homepage": "https://github.com/MaoMaoPrince/TscProjectTemplate#readme"
+}
