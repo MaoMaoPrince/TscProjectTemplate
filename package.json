@@ -11,7 +11,8 @@
     "url": "git+"
   },
   "keywords": [
-    "template"
+    "node",
+    "typescript"
   ],
   "author": "",
   "license": "ISC",
