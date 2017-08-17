@@ -1,5 +1,5 @@
 {
-  "name": "template",
+  "name": "change-me",
   "version": "0.0.1",
   "description": "template file for typescript projects",
   "main": "./src/index.ts",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MaoMaoPrince/TscProjectTemplate.git"
+    "url": "git+"
   },
   "keywords": [
     "template"
   ],
-  "author": "Michael Crosby",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MaoMaoPrince/TscProjectTemplate/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/MaoMaoPrince/TscProjectTemplate#readme"
+  "homepage": ""
 }
